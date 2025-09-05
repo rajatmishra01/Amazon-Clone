@@ -1,4 +1,4 @@
-<h3>DEV BY Rajat Mishra<\h3>
+<h3>DEV BY Rajat Mishra</h3>
 
 🛒 Amazon Clone (HTML & CSS)
 
