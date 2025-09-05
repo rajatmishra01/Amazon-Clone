@@ -1,3 +1,5 @@
+<h3>DEV BY Rajat Mishra<\h3>
+
 🛒 Amazon Clone (HTML & CSS)
 
 A simple Amazon website clone built using only HTML and CSS.
